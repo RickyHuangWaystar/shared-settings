@@ -17,13 +17,13 @@
   <servers>
     <server>
       <id>artifactory-release</id>
-      <username>${{ secrets.JFROG_USER }}</username>
-      <password>${{ secrets.JFROG_PASSWORD }}</password>
+      <username>xiaohuangricky@gmail.com</username>
+      <password>Waystar0</password>
     </server>
     <server>
       <id>artifactory-snapshot</id>
-      <username>${{ secrets.JFROG_USER }}</username>
-      <password>${{ secrets.JFROG_PASSWORD }}</password>
+      <username>xiaohuangricky@gmail.com</username>
+      <password>Waystar0</password>
     </server>
   </servers>
   <profiles>
